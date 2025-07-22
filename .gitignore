@@ -3,3 +3,7 @@ code/cpp_code/generated_files/*
 !code/cpp_code/generated_files/readme.txt
 code/cpp_code/build
 code/cpp_code/mingw
+compiled/linux/read_write_file/generated_files/*
+!compiled/linux/read_write_file/generated_files/readme.txt
+compiled/windows/read_write_file/generated_files/*
+!compiled/windows/read_write_file/generated_files/readme.txt
