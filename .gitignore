@@ -1,3 +1,5 @@
 code/cpp_code/a.out
 code/cpp_code/generated_files/*
 !code/cpp_code/generated_files/readme.txt
+code/cpp_code/build
+code/cpp_code/mingw
