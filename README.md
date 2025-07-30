@@ -1,7 +1,7 @@
 # My garbage code collection!
 
 ### C++ code:
-[C++](./code/cpp_code)
+[C++](./code/cpp_code)<br>
 All compilation for Linux made with g++ ([GCC](https://gcc.gnu.org/) compiler). With no optimization.
 
 You can get Windows/Linux execution files in [compiled](./compiled) directory.
