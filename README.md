@@ -9,5 +9,5 @@ You can get Windows/Linux execution files in [compiled](./compiled) directory.
 For compilation from source read the [compiling doc](./code/cpp_code/for_compilation/compiling_doc.md)
 
 ## Arduino code:
-[arduino](./code/arduino_code)
+[arduino](./code/arduino_code)<br>
 All code for arduino writing for Arduino Nano with default core and compiler.
