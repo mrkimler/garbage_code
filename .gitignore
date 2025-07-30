@@ -1,8 +1,11 @@
+code/cmake
 code/cpp_code/a.out
 code/cpp_code/generated_files/*
 !code/cpp_code/generated_files/readme.txt
 code/cpp_code/build
 code/cpp_code/mingw
+code/cpp_code/CMakeLists_TRASH.txt
+code/cpp_code/for_compilation/person/a.out
 compiled/linux/read_write_file/generated_files/*
 !compiled/linux/read_write_file/generated_files/readme.txt
 compiled/windows/read_write_file/generated_files/*

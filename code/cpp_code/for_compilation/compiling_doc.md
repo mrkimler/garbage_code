@@ -1,0 +1,15 @@
+Compilation from windows **not tested**. (rps would not compiled so delete [rps.cpp](../rps.cpp) if you try on Windows)
+
+# LINUX
+1. Create a build directory in source files.
+2. cd build
+
+### For Linux:
+3. cmake ..
+4. cmake --build .
+
+### For Windows (in Linux):
+3. cmake -DCMAKE_TOOLCHAIN_FILE=toolchain-mingw64.cmake ..
+4. cmake --build .
+
+All compiled files in binary stored in "compiled".
